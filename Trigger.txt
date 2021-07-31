@@ -1,0 +1,3 @@
+begin
+INSERT INTO logtable VALUES(NEW.ID,NEW.ParkingNumber, NEW.VehicleCategory, NEW.VehicleCompanyname, NEW.RegistrationNumber, NEW.OwnerName, NEW.OwnerContactNumber, NEW.InTime, NEW.OutTime, NEW.ParkingCharge, NEW.Remark, NEW.Status);
+end

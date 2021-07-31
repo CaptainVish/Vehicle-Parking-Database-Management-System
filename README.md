@@ -1,5 +1,5 @@
-# vehicle-parking-management-system
- simple PHP and Bootstrap vehicle parking management system
+# Vehicle-Parking-Database-Management-System
+ Simple PHP and Bootstrap vehicle parking management system
 
 # How to setup on your local machine
 <ul>
